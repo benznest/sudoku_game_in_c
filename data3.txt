@@ -1,0 +1,3 @@
+comport                                         12.00
+multimedia                                      18.00
+ForHumanLiFE                                        22.00
